@@ -1,0 +1,13 @@
+- Read a csv file containing student id's and names
+- Split the students into 5 (roughly) equal sized classes
+- ensure that there are no duplicate student records
+- write the names of each class's students to a txt file for that class
+
+# module imports
+# reading and writing to file, open modes
+# dictionary methods
+# setting nested values
+# modulo
+# for loops
+# unpacking
+# iterable objects
